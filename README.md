@@ -1,5 +1,5 @@
 # pazoch
-Pazoch is a basic text base game, to soon be a graphical online app.
+Pazoch is a basic text base game, to soon be a graphical online app. There will be a few versions starting with a Prototype Text Based, then a 2D Graphical Desktop Game, then a 2D Graphical Phone APP with microtransactions, then a 2.5D Crossplatform Phone and PC game, it will be free2play but have microtransactions.
 
 
 # How to play
