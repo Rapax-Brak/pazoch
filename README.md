@@ -42,3 +42,13 @@ in pazoch your mission is to get as close to 20 as you can without going over it
 +-10 Super Rare
 +-15 Celestial
 
+# TODO
+- Add Credit system
+
+- Add buying side deck lootboxes
+
+- Add 2D Interface 
+
+- Add Local Online Play
+
+- Add Online Play - Will cost money.
